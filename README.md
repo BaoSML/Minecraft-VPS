@@ -1,1 +1,1 @@
-# Minecraft-VPS
+ngrok config add-authtoken 2hleFgGx7Hi7IdqKuIaUW19ULEr_3eVwXvivtSLqEZcUX489f
